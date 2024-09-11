@@ -163,10 +163,10 @@ Wiki and Morty est une application web développée avec React, permettant aux u
 ## **Screenshots**
 
 ### **Homepage Web**
-![Homepage Mobile Screenshot](/wiki-and-morty/src/assets/images/screenshots/home_page_web.png)
+![Homepage Mobile Screenshot](/src/assets/images/screenshots/home_page_web.png)
 
 ### **Details Page Web**
-![Homepage Mobile Screenshot](/wiki-and-morty/src/assets/images/screenshots/page_detail_web.png)
+![Homepage Mobile Screenshot](/src/assets/images/screenshots/page_detail_web.png)
 
 ### **Homepage Mobile**
-![Homepage Mobile Screenshot](/wiki-and-morty/src/assets/images/screenshots/home_page_mobile.png)
+![Homepage Mobile Screenshot](/src/assets/images/screenshots/home_page_mobile.png)
