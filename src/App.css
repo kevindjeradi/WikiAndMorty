@@ -1,0 +1,13 @@
+/* wiki-and-morty/src/App.css */
+body {
+  background-color: #1a1a1a; /* consistent dark background */
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+/* Set a default background on all main app containers */
+#root {
+  background-color: #1a1a1a; /* Ensure root has the same background */
+  color: #d1d5db; /* Optional: Set default text color for accessibility */
+}
